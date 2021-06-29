@@ -51,4 +51,3 @@ Then when Tapirio site is cloned in git, switch to that directory,
     
 than go to http://localhost:3001
 
-Good luck
